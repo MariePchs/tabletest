@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+td {
+  border: 1px solid black;
+  height: 50px;
+}
+
+.table1 {
+  width: 75%;
+}
+
+.table1 td {
+  width: 33.33%;
+}
+
+.h200 {
+  height: 200px;
+}
+
+.table2 {
+  width: 90%;
+}
+
+.w60 {
+  width: 60%;
+}
+
+.w28 {
+  width: 28%;
+}
+
+.w40 {
+  width: 40%;
+}
+
+.w72 {
+  width: 72%;
+}
+
+.table3 {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.table3 td {
+  width: 33.33%;
+}
